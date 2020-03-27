@@ -1,0 +1,19 @@
+{
+  "name": "auto_color",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/estevE11/auto_color.git"
+  },
+  "author": "Roger Esteve",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/estevE11/auto_color/issues"
+  },
+  "homepage": "https://github.com/estevE11/auto_color#readme"
+}
